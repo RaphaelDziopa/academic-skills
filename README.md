@@ -30,7 +30,7 @@ Amplifiers:
 - Class A and B amplifiers.
 - Simplified architecture of OP amps such as the TL081.
 
-Signal prossesing:
+Signal processing:
 - ADC and DAC.
 - Active low pass filters.
 - Comparators and occilators (555 timer and logic gate).
